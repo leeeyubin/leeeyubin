@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=👋+I’m+leeeyubin&color=0:EEFF00,100:a82da8)
+![header](https://capsule-render.vercel.app/api?type=waving&text=👋+I’m+leeeyubin&color=0:EEFF00,100:a82da8&height=200&section=header)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeyubin&show_icons=true&theme=dracula)
 ---
