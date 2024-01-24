@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&text=&animation=twinkling&height=90)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=70&duration=3500&pause=3&color=FFB6C1&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=👋+I’m+leeeyubin)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&text=&animation=twinkling&height=90)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=70&duration=3500&pause=3&color=FFB6C1&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=130&lines=👋+I’m+leeeyubin)](https://git.io/typing-svg)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeyubin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeyubin&layout=compact&theme=radical)
