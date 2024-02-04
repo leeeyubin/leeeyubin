@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat&logo=android studio&logoColor=white"> <br>
 ---
 <p>
-<img width="70" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/11fbe68c-f295-4cb9-8b9c-f545dd38dd6d">&nbsp;&nbsp;
+<img width="70" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/5e31db62-7ebc-4cef-811e-ae119d5302e2">&nbsp;&nbsp;
 <img width="70" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/e9238566-75f3-406a-915e-f3eba80e0532">&nbsp;&nbsp;
 </p>
 
