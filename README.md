@@ -11,6 +11,7 @@
 <p>
 <img width="70" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/5e31db62-7ebc-4cef-811e-ae119d5302e2">&nbsp;&nbsp;
 <img width="70" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/e9238566-75f3-406a-915e-f3eba80e0532">&nbsp;&nbsp;
+<img width="70" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/331a21f4-bc3b-42e6-8732-a0241ec6dd60">&nbsp;&nbsp;
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeyubin&show_icons=true&theme=radical)
