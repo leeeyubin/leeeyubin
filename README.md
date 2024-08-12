@@ -3,18 +3,17 @@
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=70&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=130&lines=👋+I’m+leeeyubin)](https://git.io/typing-svg)
-
+---
 #### 🌐 Languages
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
-  
-#### 💻 Tools
 
+#### 💻 Tools
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat&logo=android studio&logoColor=white">
-
+  
 </br>
 </br>
 
