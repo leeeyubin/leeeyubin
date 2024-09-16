@@ -22,7 +22,7 @@
 #### ✴Project
 <p>
 <img width="70" src="https://github.com/user-attachments/assets/8bec4b57-d147-41b9-9dbc-1829b4d31ad0">&nbsp;&nbsp;
-<a href="https://github.com/teamterning/Terning-Android"><img src="https://github.com/user-attachments/assets/ce154ad8-3b34-4f8e-b22e-d1b8aeb14aac" height="25">
+<a href="https://github.com/teamterning/Terning-Android"><img src="https://github.com/user-attachments/assets/073c30c4-60b2-444f-8f0d-7440660cd206" height="25">
 Github</a>
 </p>
 <p>
