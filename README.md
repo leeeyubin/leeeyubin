@@ -1,5 +1,3 @@
-</br>
-
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=70&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=130&lines=👋+I’m+leeeyubin)](https://git.io/typing-svg)
@@ -31,7 +29,7 @@
 
 #### ✳️Experience
 <p>
-<img width="70"  src="https://github.com/user-attachments/assets/d5b70b91-8577-4ae8-b099-481d8f4e7154">
+<img width="70"  src="https://github.com/user-attachments/assets/46920bdf-cebd-4640-b384-d37d1f1f4df7">
 <img width="70" src="https://github.com/user-attachments/assets/596472e0-8756-4d09-9e6c-87b4f7ac650c">
 <img width="70" src="https://github.com/user-attachments/assets/ea22edc0-4c4a-4941-816b-9f14457c0d70">
 <img width="70" src="https://github.com/user-attachments/assets/c11e5ef6-c295-4fc9-b0de-b1bbe8f0e61b">
