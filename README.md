@@ -21,16 +21,16 @@
 
 #### ✴Project
 <p>
+<img width="70" src="https://github.com/user-attachments/assets/8bec4b57-d147-41b9-9dbc-1829b4d31ad0">&nbsp;&nbsp;
+<a href="https://github.com/teamterning/Terning-Android"><img src="https://github.com/user-attachments/assets/ce154ad8-3b34-4f8e-b22e-d1b8aeb14aac" height="25">
+Github</a>
+</p>
+<p>
 <img width="70" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/e9238566-75f3-406a-915e-f3eba80e0532">&nbsp;&nbsp;
 <a href="https://github.com/Team-Going/Going-Android"><img src="https://github.com/user-attachments/assets/ce154ad8-3b34-4f8e-b22e-d1b8aeb14aac" height="25">
  Github</a>
 <a href="https://play.google.com/store/apps/details?id=com.going.doorip&hl=ko"><img src="https://github.com/user-attachments/assets/b49abba6-2070-468c-a728-36cbeef203bf" height="25">
  Play Store</a>
-</p>
-<p>
-<img width="70" src="https://github.com/user-attachments/assets/8bec4b57-d147-41b9-9dbc-1829b4d31ad0">&nbsp;&nbsp;
-<a href="https://github.com/teamterning/Terning-Android"><img src="https://github.com/user-attachments/assets/ce154ad8-3b34-4f8e-b22e-d1b8aeb14aac" height="25">
-Github</a>
 </p>
 
 #### ✳️Experience
