@@ -5,7 +5,7 @@
 
 </div>
 
-### 💻 Skills
+#### 💻 Skills
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat&logo=android studio&logoColor=white">
 </p>
 
-### ✴ Project
+#### ✴ Project
 <p>
 <img width="70" src="https://github.com/user-attachments/assets/8bec4b57-d147-41b9-9dbc-1829b4d31ad0">&nbsp;&nbsp;
 <a href="https://github.com/teamterning/Terning-Android"><img src="https://github.com/user-attachments/assets/ce154ad8-3b34-4f8e-b22e-d1b8aeb14aac" height="25">
@@ -29,7 +29,7 @@ Github</a>
  Play Store</a>
 </p>
 
-### ✳️ Experience
+#### ✳️ Experience
 <p>
 <img width="70"  src="https://github.com/user-attachments/assets/46920bdf-cebd-4640-b384-d37d1f1f4df7">
 <img width="70" src="https://github.com/user-attachments/assets/596472e0-8756-4d09-9e6c-87b4f7ac650c">
@@ -40,5 +40,3 @@ Github</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeyubin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeyubin&layout=compact&theme=radical)
----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeeyubin&count_bg=%23FFB6C1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
