@@ -23,7 +23,7 @@
 </p>
 
 ## Experience
-- [SOPT Makers](https://makers.sopt.org/) 35th Android Chapter (2024)
+- [SOPT makers](https://makers.sopt.org/) 35th Android Chapter (2024)
 - [SKT DEVOCEAN YOUNG](https://devocean.sk.com/) 3rd (2024)
 - [SOPT](https://www.sopt.org/) 34th Android Part (2024)
 - [YOURSSU](https://yourssu.com/) Android Developer (2023 ~ )
