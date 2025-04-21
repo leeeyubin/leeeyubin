@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android&logoColor=white">
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
 </p>
 
