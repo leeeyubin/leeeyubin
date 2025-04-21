@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat&logo=android studio&logoColor=white">
+ <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
 </p>
 
 ## Project
@@ -36,5 +37,7 @@
  <img width="70"  src="https://github.com/user-attachments/assets/46920bdf-cebd-4640-b384-d37d1f1f4df7">
 </p>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oneinamillion)](https://solved.ac/oneinamillion)
+</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeyubin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeyubin&layout=compact&theme=radical)
