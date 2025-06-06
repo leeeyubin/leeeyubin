@@ -13,6 +13,9 @@
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
 </p>
 
+## Open Source Contribution
+- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/479)
+
 ## Project
 - [terning](https://github.com/teamterning/Terning-Android) - Android Lead Developer (2024 ~ )
 - [SOPT](https://github.com/sopt-makers/sopt-android) - Android Developer (2024)
@@ -22,9 +25,6 @@
 <img width="70" src="https://github.com/user-attachments/assets/756ef4c1-15d5-4d4d-8506-e643cf1097db">
 <img width="70" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/e9238566-75f3-406a-915e-f3eba80e0532">
 </p>
-
-## Open Source Contribution
-- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/479)
 
 ## Experience
 - [SOPT makers](https://makers.sopt.org/) 35th Android Chapter (2024)
