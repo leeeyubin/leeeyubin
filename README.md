@@ -14,7 +14,7 @@
 </p>
 
 ## Open Source Contribution
-- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/479)
+- DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
 
 ## Project
 - [terning](https://github.com/teamterning/Terning-Android) - Android Lead Developer (2024 ~ )
