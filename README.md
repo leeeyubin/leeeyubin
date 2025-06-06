@@ -23,6 +23,9 @@
 <img width="70" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/e9238566-75f3-406a-915e-f3eba80e0532">
 </p>
 
+## Open Source Contribution
+- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/479)
+
 ## Experience
 - [SOPT makers](https://makers.sopt.org/) 35th Android Chapter (2024)
 - [SKT DEVOCEAN YOUNG](https://devocean.sk.com/) 3rd (2024)
