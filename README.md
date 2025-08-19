@@ -30,12 +30,14 @@
 </p>
 
 ## Experience
+- [NEXTERS](https://nexters.co.kr/) 27th Android Developer (2025)
 - [SOPT makers](https://makers.sopt.org/) 35th Android Chapter (2024)
 - [SKT DEVOCEAN YOUNG](https://devocean.sk.com/) 3rd (2024)
 - [SOPT](https://www.sopt.org/) 34th Android Part (2024)
-- [YOURSSU](https://yourssu.com/) Android Developer (2023 ~ )
+- [YOURSSU](https://yourssu.com/) Android Developer (2023 ~ 2025)
 - [SOPT](https://www.sopt.org/) 33rd Android Part (2023)
 <p>
+<img width="70" src="https://github.com/user-attachments/assets/29341da3-ef60-4c10-aa4f-2da5485e17e2">
 <img width="70" src="https://github.com/user-attachments/assets/ea22edc0-4c4a-4941-816b-9f14457c0d70">
 <img width="70" src="https://github.com/user-attachments/assets/c09a7458-792e-4ccf-8fd3-d0459bca872e">
 <img width="70" src="https://github.com/user-attachments/assets/596472e0-8756-4d09-9e6c-87b4f7ac650c">
