@@ -1,10 +1,9 @@
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=leeeyubin&fontSize=90)
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=70&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=130&lines=👋+I’m+leeeyubin)](https://git.io/typing-svg)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oneinamillion)](https://solved.ac/oneinamillion)
 
-</div>
-
-## Tech Stack
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
@@ -15,6 +14,8 @@
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
+ 
+</div>
 
 ## Open Source Contribution
 - DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
@@ -45,7 +46,7 @@
 <img width="68"  src="https://github.com/user-attachments/assets/46920bdf-cebd-4640-b384-d37d1f1f4df7">
 </p>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oneinamillion)](https://solved.ac/oneinamillion)
 </br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeyubin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeyubin&layout=compact&theme=radical)
