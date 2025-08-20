@@ -1,9 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=E3A6AE&height=150&section=header&text=leeeyubin&fontSize=50&fontColor=363636)
-
- 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oneinamillion)](https://solved.ac/oneinamillion)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=leeeyubin&fontSize=50&fontColor=E3A6AE)
 
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -15,6 +12,8 @@
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oneinamillion)](https://solved.ac/oneinamillion)
  
 </div>
 
