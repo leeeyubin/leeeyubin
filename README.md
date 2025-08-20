@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=leeeyubin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=E3A6AE&height=150&section=header&text=leeeyubin&fontSize=50&fontColor=363636)
+
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oneinamillion)](https://solved.ac/oneinamillion)
 
