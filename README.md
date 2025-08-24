@@ -19,10 +19,12 @@
 - DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
 
 ## Project
+- [soak](https://github.com/Nexters/NewsLetter-Android) - Android Developer (2025 ~ )
 - [terning](https://github.com/teamterning/Terning-Android) - Android Lead Developer (2024 ~ )
 - [SOPT](https://github.com/sopt-makers/sopt-android) - Android Developer (2024)
 - [doorip](https://github.com/Team-Going/Going-Android) - Android Developer (2023 ~ 2024)
 <p>
+<img width="68" src="https://github.com/user-attachments/assets/0f8eb98b-df9b-41ac-8451-33670b539b3c" />
 <img width="68" src="https://github.com/user-attachments/assets/8bec4b57-d147-41b9-9dbc-1829b4d31ad0">
 <img width="68" src="https://github.com/user-attachments/assets/756ef4c1-15d5-4d4d-8506-e643cf1097db">
 <img width="68" src="https://github.com/leeeyubin/leeeyubin/assets/128459613/e9238566-75f3-406a-915e-f3eba80e0532">
