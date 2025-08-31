@@ -16,7 +16,8 @@
 </div>
 
 ## Open Source Contribution
-- DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
+- droidknights/DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
+- DroidKaigi/conference-app-2025 [#415](https://github.com/DroidKaigi/conference-app-2025/pull/497)
 
 ## Project
 - [soak](https://github.com/Nexters/NewsLetter-Android) - Android Developer (2025 ~ )
