@@ -20,7 +20,7 @@
 - DroidKaigi/conference-app-2025 [#415](https://github.com/DroidKaigi/conference-app-2025/pull/497)
 
 ## Project
-- [soak](https://github.com/Nexters/NewsLetter-Android) - Android Developer (2025 ~ )
+- [Soak](https://github.com/fairy-band/NewsLetter-Android) - Android Developer (2025 ~ )
 - [terning](https://github.com/teamterning/Terning-Android) - Android Lead Developer (2024 ~ )
 - [SOPT](https://github.com/sopt-makers/sopt-android) - Android Developer (2024)
 - [doorip](https://github.com/Team-Going/Going-Android) - Android Developer (2023 ~ 2024)
