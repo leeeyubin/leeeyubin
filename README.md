@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="4800" height="240" alt="image" src="https://github.com/user-attachments/assets/5f8daf3e-568a-408b-ab13-6fade554ec5b" />
+<img width="4800" height="280" alt="image" src="https://github.com/user-attachments/assets/2a90305f-2f0d-4af1-9213-2059be2c5c30" />
 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=leeeyubin&fontSize=55&fontColor=E3A6AE)
@@ -57,4 +57,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeyubin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeyubin&layout=compact&theme=radical)
 
-<img width="4800" height="240" alt="image" src="https://github.com/user-attachments/assets/af5db41d-8f11-4eb9-ab1d-149b1e9ad384" />
+<img width="4800" height="280" alt="image" src="https://github.com/user-attachments/assets/0f60005e-87ce-44f9-84c0-7ae9cfca6885" />
