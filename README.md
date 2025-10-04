@@ -2,11 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=leeeyubin&fontSize=55&fontColor=E3A6AE)
 
- <img width="4000" height="320" alt="image" src="https://github.com/user-attachments/assets/1039d0da-4ef1-46df-8c60-df6b27140c3a" />
-
+<img width="4000" height="320" alt="image" src="https://github.com/user-attachments/assets/1039d0da-4ef1-46df-8c60-df6b27140c3a" />
 
 </div>
-
 
 ## Open Source Contribution
 - droidknights/DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
