@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="4000" height="300" alt="image" src="https://github.com/user-attachments/assets/51420504-8fdf-4c01-b20e-751e8506b271" />
+
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=leeeyubin&fontSize=55&fontColor=E3A6AE)
 
 <p>
