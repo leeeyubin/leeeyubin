@@ -2,20 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=leeeyubin&fontSize=55&fontColor=E3A6AE)
 
-<p>
- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
- </br>
- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
- <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"/>
-</br>
- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
+ <img width="4000" height="320" alt="image" src="https://github.com/user-attachments/assets/1039d0da-4ef1-46df-8c60-df6b27140c3a" />
 
-<img width="4000" height="320" alt="image" src="https://github.com/user-attachments/assets/1039d0da-4ef1-46df-8c60-df6b27140c3a" />
 
 </div>
+
 
 ## Open Source Contribution
 - droidknights/DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
