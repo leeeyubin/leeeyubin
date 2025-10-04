@@ -1,8 +1,5 @@
 <div align="center">
 
-<img width="4800" height="280" alt="image" src="https://github.com/user-attachments/assets/2a90305f-2f0d-4af1-9213-2059be2c5c30" />
-
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=leeeyubin&fontSize=55&fontColor=E3A6AE)
 
 <p>
@@ -15,7 +12,9 @@
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
- 
+
+ <img width="4000" height="320" alt="image" src="https://github.com/user-attachments/assets/1039d0da-4ef1-46df-8c60-df6b27140c3a" />
+
 </div>
 
 ## Open Source Contribution
@@ -56,5 +55,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeyubin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeyubin&layout=compact&theme=radical)
-
-<img width="4800" height="280" alt="image" src="https://github.com/user-attachments/assets/0f60005e-87ce-44f9-84c0-7ae9cfca6885" />
