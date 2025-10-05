@@ -7,8 +7,8 @@
 </div>
 
 ## Open Source Contribution
-- droidknights/DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
 - DroidKaigi/conference-app-2025 [#415](https://github.com/DroidKaigi/conference-app-2025/pull/497)
+- droidknights/DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
 
 ## Project
 - [Soak](https://github.com/fairy-band/NewsLetter-Android) - Android Developer (2025 ~ )
