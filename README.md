@@ -12,7 +12,7 @@
 
 ## Project
 - [Soak](https://github.com/fairy-band/NewsLetter-Android) - Android Developer (2025 ~ )
-- [terning](https://github.com/teamterning/Terning-Android) - Android Lead Developer (2024 ~ )
+- [terning](https://github.com/teamterning/Terning-Android) - Android Lead Developer (2024 ~ 2025)
 - [SOPT](https://github.com/sopt-makers/sopt-android) - Android Developer (2024)
 - [doorip](https://github.com/Team-Going/Going-Android) - Android Developer (2023 ~ 2024)
 <p>
