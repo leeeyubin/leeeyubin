@@ -13,7 +13,7 @@
 ## Project
 - [Soak](https://github.com/fairy-band/NewsLetter-Android) - Android Developer (2025 ~ )
 - [terning](https://github.com/teamterning/Terning-Android) - Android Lead Developer (2024 ~ 2025)
-- [SOPT](https://github.com/sopt-makers/sopt-android) - Android Developer (2024 ~ 2015)
+- [SOPT](https://github.com/sopt-makers/sopt-android) - Android Developer (2024 ~ 2025)
 - [doorip](https://github.com/Team-Going/Going-Android) - Android Developer (2023 ~ 2024)
 <p>
 <img width="68" src="https://github.com/user-attachments/assets/0f8eb98b-df9b-41ac-8451-33670b539b3c" />
