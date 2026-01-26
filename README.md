@@ -11,11 +11,13 @@
 - droidknights/DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
 
 ## Project
+- [Smashing](https://github.com/TEAM-SMASHING/SMASHING-SERVER) - Server Developer (2025 ~ )
 - [Soak](https://github.com/fairy-band/NewsLetter-Android) - Android Developer (2025 ~ )
 - [terning](https://github.com/teamterning/Terning-Android) - Android Lead Developer (2024 ~ 2025)
 - [SOPT](https://github.com/sopt-makers/sopt-android) - Android Developer (2024 ~ 2025)
 - [doorip](https://github.com/Team-Going/Going-Android) - Android Developer (2023 ~ 2024)
 <p>
+<img width="68" src="https://github.com/user-attachments/assets/3a6f54b4-2540-4aea-a0d2-9969474c3ff3" />  
 <img width="68" src="https://github.com/user-attachments/assets/0f8eb98b-df9b-41ac-8451-33670b539b3c" />
 <img width="68" src="https://github.com/user-attachments/assets/8bec4b57-d147-41b9-9dbc-1829b4d31ad0">
 <img width="68" src="https://github.com/user-attachments/assets/756ef4c1-15d5-4d4d-8506-e643cf1097db">
@@ -23,6 +25,7 @@
 </p>
 
 ## Experience
+- [SOPT](https://www.sopt.org/) 37th Server Part (2025)
 - [NEXTERS](https://nexters.co.kr/) 27th Android Developer (2025)
 - [SOPT makers](https://makers.sopt.org/) 35th Android Chapter (2024)
 - [SKT DEVOCEAN YOUNG](https://devocean.sk.com/) 3rd (2024)
@@ -30,6 +33,7 @@
 - [YOURSSU](https://yourssu.com/) Android Developer (2023 ~ 2025)
 - [SOPT](https://www.sopt.org/) 33rd Android Part (2023)
 <p>
+<img width="68" src="https://github.com/user-attachments/assets/0773667a-2ad2-44c5-bd97-911281c985f1">  
 <img width="68" src="https://github.com/user-attachments/assets/29341da3-ef60-4c10-aa4f-2da5485e17e2">
 <img width="68" src="https://github.com/user-attachments/assets/ea22edc0-4c4a-4941-816b-9f14457c0d70">
 <img width="68" src="https://github.com/user-attachments/assets/c09a7458-792e-4ccf-8fd3-d0459bca872e">
