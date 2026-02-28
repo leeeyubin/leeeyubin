@@ -25,6 +25,7 @@
 </p>
 
 ## Experience
+- [NEXTERS](https://nexters.co.kr/) COO (2026)
 - [SOPT](https://www.sopt.org/) 37th Server Part (2025)
 - [NEXTERS](https://nexters.co.kr/) 27th Android Developer (2025)
 - [SOPT makers](https://makers.sopt.org/) 35th Android Chapter (2024)
@@ -33,6 +34,7 @@
 - [YOURSSU](https://yourssu.com/) Android Developer (2023 ~ 2025)
 - [SOPT](https://www.sopt.org/) 33rd Android Part (2023)
 <p>
+<img width="68" src="https://github.com/user-attachments/assets/b10b954d-cc42-4759-90c4-abe90372dcd5">
 <img width="68" src="https://github.com/user-attachments/assets/0773667a-2ad2-44c5-bd97-911281c985f1">  
 <img width="68" src="https://github.com/user-attachments/assets/29341da3-ef60-4c10-aa4f-2da5485e17e2">
 <img width="68" src="https://github.com/user-attachments/assets/ea22edc0-4c4a-4941-816b-9f14457c0d70">
