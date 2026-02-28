@@ -28,7 +28,7 @@
 </p>
 
 ## Experience
-- [NEXTERS](https://nexters.co.kr/) COO (2026)
+- [NEXTERS](https://nexters.co.kr/) 28th COO (2026)
 - [SOPT](https://www.sopt.org/) 37th Server Part (2025)
 - [NEXTERS](https://nexters.co.kr/) 27th Android Developer (2025)
 - [SOPT makers](https://makers.sopt.org/) 35th Android Chapter (2024)
