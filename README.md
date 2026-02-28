@@ -6,6 +6,9 @@
 
 </div>
 
+## Career
+- [Hanwha Energy Australia](https://nectr.com.au/) (2026 ~ )
+
 ## Open Source Contribution
 - DroidKaigi/conference-app-2025 [#415](https://github.com/DroidKaigi/conference-app-2025/pull/497)
 - droidknights/DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
