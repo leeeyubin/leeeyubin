@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=leeeyubin&fontSize=55&fontColor=E3A6AE)
-
-<img width="4000" height="360" alt="image" src="https://github.com/user-attachments/assets/8efa09e7-8a85-498b-b748-019bb379eada" />
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=leeeyubin&fontSize=60&fontColor=E3A6AE)
 
 </div>
 
