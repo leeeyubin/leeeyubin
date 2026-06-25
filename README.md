@@ -12,7 +12,7 @@
 - droidknights/DroidKnightsApp [#409](https://github.com/droidknights/DroidKnightsApp/pull/479)
 
 ## Project
-- [Smashing](https://github.com/TEAM-SMASHING/SMASHING-SERVER) - Server Developer (2025 ~ )
+- [Smashing](https://github.com/TEAM-SMASHING/SMASHING-SERVER) - Server Developer (2025 ~ 2026)
 - [Soak](https://github.com/fairy-band/NewsLetter-Android) - Android Developer (2025 ~ 2026)
 - [terning](https://github.com/teamterning/Terning-Android) - Android Lead Developer (2024 ~ 2025)
 - [SOPT](https://github.com/sopt-makers/sopt-android) - Android Developer (2024 ~ 2025)
